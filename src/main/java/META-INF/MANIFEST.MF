@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: processingTheMainProgram
+Class-Path: fastjson-1.2.47.jar json-20190722.jar
+

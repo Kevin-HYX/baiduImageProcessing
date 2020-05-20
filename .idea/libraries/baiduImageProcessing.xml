@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="baiduImageProcessing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/baiduImageProcessing_jar/baiduImageProcessing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="baiduImageProcessing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/baiduImageProcessing_jar</output-path>
+    <root id="root">
+      <element id="archive" name="baiduImageProcessing.jar">
+        <element id="module-output" name="baiduImageProcessing" />
+      </element>
+      <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.47" />
+      <element id="library" level="project" name="Maven: org.json:json:20190722" />
+    </root>
+  </artifact>
+</component>
